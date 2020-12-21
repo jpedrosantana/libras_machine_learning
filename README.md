@@ -6,8 +6,11 @@ A ideia era criar uma aplicação simples que envolvesse o processamento de imag
 ## Os passos da aplicação foram:
 
 ![enter image description here](https://i.imgur.com/oWm8u3g.jpg)
+![enter image description here](https://i.imgur.com/vk9bIvH.jpg)
  - Criação de um dataset próprio com 10 imagens para as letras A, B e C;
- - Unificação de todas as imagens e a criação de um modelo de machine learning;
+ - Unificação de todas as imagens;
+ - Aplicação da binarização das imagens;
+ - Criação de um modelo de machine learning (KNN);
  - Criação de um código para o reconhecimento em tempo real.
 
 As imagens foram tiradas sob mesma luminosidade e plano de fundo para evitar possíveis ruídos, e a câmera utilizada foi uma convencional do próprio notebook.
@@ -21,4 +24,4 @@ Outro problema encontrado foi que caso nenhum gesto seja inserido o algoritmo ai
 
 ## Tentativa de melhorias na aplicação:
 Ampliação do dataset e aplicar filtros para tentar pegar apenas o contorno das imagens (por exemplo blur e sobel).
-Encontrar uma maneira do algoritmo não retornar nada caso nenhum gesto seja informado.
+Encontrar uma maneira do algoritmo retornar nada caso nenhum gesto seja informado.
