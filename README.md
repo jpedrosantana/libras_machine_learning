@@ -14,6 +14,7 @@ As imagens foram tiradas sob mesma luminosidade e plano de fundo para evitar pos
 
 ## Resultados:
 A abordagem adotada foi a binarização das imagens para fazer o reconhecimento, tendo 100% de precisão para as letas A, B e C.
+
 ![enter image description here](https://i.imgur.com/D6YCBev.png)![enter image description here](https://i.imgur.com/md6gSeH.png)![enter image description here](https://i.imgur.com/0NpcmxZ.png)
 ## Dificuldades encontradas:
 Devida a abordagem de binarização adotada, em gestos muito similares, como os que simbolizam as letras **A**, **E** e **S** o algoritmo não teria o mesmo aproveitamento, porém para o propósito do trabalho o resultado foi satisfatório.
