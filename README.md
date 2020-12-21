@@ -22,4 +22,4 @@ Outro problema encontrado foi que caso nenhum gesto seja inserido o algoritmo ai
 
 ## Tentativa de melhorias na aplicação:
 Ampliação do dataset e aplicar filtros para tentar pegar apenas o contorno das imagens (por exemplo blur e sobel).
-Encontrar uma maneira do algoritmo não retornar nada caso nenhum gesto seja informado.
+Encontrar uma maneira do algoritmo retornar nada caso nenhum gesto seja informado.
